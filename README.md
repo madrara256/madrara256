@@ -2,7 +2,7 @@
 - 👀 I’m a technology professional majors in python(web/mobile/embedded--Odoo/Flask/Django Frameworks) & mobile(java/flutter)
 - 🌱 I’m currently learning Data Science(Python)
 - 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me Email: herbert.ichama@gmail.com
+- 📫 How to reach me Email: herbert.ichama@gmail.com, Tel:+256770536185
 
 <!---
 madrara256/madrara256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
