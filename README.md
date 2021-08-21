@@ -1,6 +1,6 @@
 - 👋 I’m @madrara256
 - 👀 I’m a technology professional majors in python(web/mobile/embedded--Odoo/Flask/Django Frameworks) & mobile(java/flutter)
-- 🌱 I’m currently learning Data Science(Python)
+- 🌱 I'am A Certified SCRUM Master APMG International
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me Email: herbert.ichama@gmail.com, Tel:+256770536185
 
