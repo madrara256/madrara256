@@ -1,4 +1,4 @@
-- 👋 I’m @madrara256
+- 👋 I’m @madrara256(Herbert Ichama)
 - 👀 I’m fullstack software developer with majors in python(web/mobile/embedded--Odoo/Flask/Django Frameworks) & mobile(java/flutter) & ASP.NET Core MVC 5+
 - 🌱 I'am A Certified SCRUM Master APMG International
 - 💞️ I’m looking to collaborate on opensource projects
